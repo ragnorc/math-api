@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "math",
-  "alias": "math.now.sh",
+  "alias": "math.ragnor.co",
   "builds": [
     {
       "src": "index.js",
