@@ -1,6 +1,7 @@
 {
   "name": "math",
   "alias": "math.ragnor.co",
+  "version": 2,
   "builds": [
     {
       "src": "index.ts",
